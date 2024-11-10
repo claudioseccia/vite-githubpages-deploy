@@ -25,10 +25,14 @@ Vanilla Js
 npm run dev <------- to start the project
 
 GITHUB PAGES - DEPLOY
-2024 UPDATE: https://www.youtube.com/watch?app=desktop&v=Bk28snjHr7c
+YT 2024 UPDATE: https://www.youtube.com/watch?app=desktop&v=Bk28snjHr7c
+ARTICLE HERE: https://www.vd-developer.online/blog/vite-react-deploy-github
 
 DOCS for VITE HERE: https://vite.dev/guide/static-deploy.html#github-pages
 GITHUB PAGES ON GITHUB: https://github.com/claudioseccia/jackharrington_yt_introductiontoreact/settings/pages
 
 add homepage entry on package.json
 npm i --save gh-pages <-------- install gh-pages
+
+FINAL DEPLY
+https://claudioseccia.github.io/vite-githubpages-deploy/
